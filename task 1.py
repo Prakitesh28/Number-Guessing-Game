@@ -7,4 +7,4 @@ div=a/b;
 print("sum=",sum);
 print("sub=",sub);  
 print("multiplication=",mul);
-print("division=",div);  
+print("division=",div);
